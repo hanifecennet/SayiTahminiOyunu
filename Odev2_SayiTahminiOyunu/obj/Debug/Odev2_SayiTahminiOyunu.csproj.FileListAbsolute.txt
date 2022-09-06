@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.Form1.resources
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.Properties.Resources.resources
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\bin\Debug\Odev2_SayiTahminiOyunu.exe.config
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\bin\Debug\Odev2_SayiTahminiOyunu.exe
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\bin\Debug\Odev2_SayiTahminiOyunu.pdb
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.exe
+C:\Users\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.pdb
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\bin\Debug\Odev2_SayiTahminiOyunu.exe.config
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\bin\Debug\Odev2_SayiTahminiOyunu.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\bin\Debug\Odev2_SayiTahminiOyunu.pdb
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.Form1.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.exe
+C:\Users\LENOVO\Desktop\YEDEK C\user\source\repos\Odev2_SayiTahminiOyunu\Odev2_SayiTahminiOyunu\obj\Debug\Odev2_SayiTahminiOyunu.pdb
